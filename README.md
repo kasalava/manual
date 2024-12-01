@@ -5,7 +5,7 @@
 
 Skills: RUBY / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
+- 🔭 Я еще работаю над этойо страницей... 
 
 
 
